@@ -1,0 +1,1 @@
+BASE_URL = "http://mock-events-api-renault-qa.staging.cloudmade.com/"
